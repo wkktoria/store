@@ -1,0 +1,6 @@
+pl:
+  hello: "Witaj, świecie"
+  products:
+    index:
+      title: "Produkty"
+      new_product: "Nowy produkt"
